@@ -6,7 +6,8 @@ const useStyles = makeStyles((theme) =>
 			fontFamily: 'roboto'
 		},
 		screen: {
-			paddingBottom: 50
+			paddingBottom: 50,
+			paddingTop: 100,
 		},
 		productHeader: {
 			display: 'flex',
